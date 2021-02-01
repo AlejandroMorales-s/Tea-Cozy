@@ -113,7 +113,7 @@ p{
     margin-top: 6.9rem;
     height: 70rem;
     width: 100%;
-    background-image: url(img/img-mission-background.webp);
+    background-image: url(../img/img-mission-background.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -257,7 +257,7 @@ p{
 /*Locations*/
 /*========================================================================*/
 .locations{
-    background-image: url(img/img-locations-background.webp);
+    background-image: url(../img/img-locations-background.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center 25%;
